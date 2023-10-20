@@ -25,3 +25,5 @@ HstDuree.log
 # WINDEV Mobile 
 android
 *.xcode.gen
+desktop.ini
+Folder.ico
