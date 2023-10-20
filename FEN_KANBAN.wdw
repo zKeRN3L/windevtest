@@ -1,0 +1,361 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_KANBAN
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_KANBAN
+ identifier : 0x2374a03c01522f7a
+ internal_properties : CAAAAAgAAACI1U7XNJPq2C87Y9v6R6+lmI/wcLamwBR8QpxAtyiyXLJ/onbOgdjy4WAvYb/ZzULzH8yTBzJlkuthMCKQf4hUQAY1tP1helrFT5xMaS2raYuXn5xaFZcAbU9F4eSWe8C7N3iiOhxY0V3pKoCfSWn8T5OvvCOOtbRr6H2+uU2RNsa2QujXDdZyHekcYHDG2MSgf7yrSFRbIkwG/MeJdsHG1+b/ayQvMmuOo2CZcu2xKoJNJ49ISaXYErb1ffXDEljOk8i5n/9kMqmJMpy9mt+mruvaFn59LsJdPH6UFpoUigXLZX9JC4EIeOIch/ChW39ao5yN9aVNrWob22711/1CDnMDDw2BFA5EBX1ua2c5BjsO9qYN44ANSC79FCgxfWFjtpaIWp5ujH0eNQCLdfxcrLLvfcliLkSWvPhgN+MpGY2MIk+GYT4U3XxuUf1apwhbCp5HHGmvJN0WiejPElNxEeJTcJ8JPAHQxjQ9hCe4sdHt0Ep+5dbB2X7e0Umpc7x/0pL0gDJa1xY2gTJBT+pSwPuUiAstYzfyLS+g/6eG/qB4WrHNaZ/Qg2xbXUROp54vCho7eVmk18MFM1VFsrrbNYutwCeD3XhzJOkqRSDMtPYmw7BlWLIhjp2O4jjvJMJGCYrSHc21hUqjnz7/Lhtt/jjG9De4/d7KeYE=
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 736
+ controls :
+  -
+    name : KANBAN_TACHES
+    identifier : 0x2374a0c002613637
+    internal_properties : CAAAAAgAAABGoOvKw7w/pXUbjC9sE1oc2xtWJG2lcZGtC/zHgfyFM4vxE6QfDjEmFvv2VWEVnAr4+zzJKUMZ0PMWxcstN3NyY1DRYQwxwyhXvPsn1BvcqnKdFFoMtDise6Pv33Ii8Mey8pDb+Im8sv0LcMF4pfv509kGbBLSmPvDX255ArE8ecy9ttVPVtg+ijtuSiK0+uVEM0ADoYvf4qnQkUvbg9IrpSxChulPtUVkiXG2PkFk06gzoMIL04fX34kaXk/acjNFKbljVoYarzcjAwtCGl2xwZkfkD1OMZQXfiWtcLm8lSNnr3g3K8DrBV/X4YIkN2VNvmw4WK0mHVcTWyK9xRwV/5Q/AODq3cJDI5GvAgRUQIp//RpD05HkK1b3wc47fQOEG3MUBtIh3FzO4J4v+HK+xclVtt06jNKf8fOqThp1zVb43Pzu0Oy9aM4r7mJhmiUxBcnvcnTFLAPdkxM8prX0txi30+e/i75QVA+wXLnk2AMHP3MpxLNAgBUSKN2cBKDAv0dwdb1uGfl6jH+BxsdQ8mwjbOPv+YMZLdZtzfD/c7Vub8OXaPl6I+pJhUI6RbmvWngV/BlaDjzzxI6VyadEU5bL4f0aVsgeqsR1gZK5XUuKqauXIeiS5D1iHmubx3IXa8TexCJ2NlLRi95gfxUY6cRMUZK3XpyJ7SLSkNL0t5xHMfJE5mrAikMjLbFHmOO7UniLMm6o9J2UiziRx2iKzIiYR6f9w5Yy6LnI5CLkpECI71oOSB0q5POfDadAIp+jA0cu8N08mWYYvmVU0BSXABa2/dHzL64W/405kBtlXIO+QP1Aj4LgbvFRJXjU9Jzdh4PH0qlI+P5aMbisMR4hWf/Oue2QIk+5nnv+xKtSH7QsmyclyXSGTRyYM08cLbPtvX6rWocgiV66JweFq3hV7dNctvk/VH0KB203x56kCo93JR2m9GQkiGGfKLFVmpQ8pAWkIVY5KyxXQKJ9U6tXWhbajpjt5y2GgUDuILzAElAmSeNrV8IxbP7RTWKJtg+xddS9L/+IF3Mmrx44UrfE87u4c00RtqVl1B0DBGjtBU6HNpuIHh5Zv1KgKl2AL/S4tGlfIQo+w6wrphQ+zoMdf2GjTVAZlh7TkJB6eMU/vd62FUae7Ne/l7oBfuTpmNTgUQ8Coz4pUarWjRQiq8+19XaW8pAz3X3kC0rJ0jjYpSUnAMR4ns5kXx74G6ppBp7WGvfHaqspHIXD2K78kzGeKt6NTLOKHifD+QF46agqyZDrZtxMNXTIBKFpHL2O+mLU7U7fLmy2XSalVS50yJ+wrtZbtca5wIWzBDNekCZDKKCjFWQg8d+3Mmu5Fre9lv9yxV1uQPcgIMHP4W/qm0y4Bk5OwWE+79Q8588i1qzA2bfpcKCBmrY496as2BqXps50OxTEJmyQXhw57ADi9eOZMCo0EndyyvU44CFLgDY3gthXdrZzJuq+/cDP8NjdBflNIQXSYA==
+    properties :
+     x : 6
+     y : 80
+     width : 1010
+     height : 650
+    lists :
+     -
+       name : LISTE_ENATTENTE
+       identifier : 0x2374a0c002623637
+       internal_properties : CAAAAAgAAABxtE6Ix/DpaP6g0HgB0u+ra5zhTBZJbQZwD3I5+tyrm9cE3HBo1ZzMWnbIBGwCV0dpbttIr2xACLWVLPzzFfTLwjmjR/KtlYgGsdjMtJTBY5zOmuVdqaUW3YnEJfa72Ollwhs6UVdqbLXYFHDbXgd/sMsmIN0j9DQNdqaLzAxs6QNUCU5K1ruE0Bl/6cXMXBmT6p646YTy2OgH/eDVdmT6PW/rosalSHvIcSBKBQEtFxtHC8MOiggI2MYvq+gMG/L5BE471c+TJ1V4MLn/tqyUHYjfs0A0Yuh30IaTDrk=
+     -
+       name : LISTE_ENCOURS
+       identifier : 0x2374a0c002633637
+       internal_properties : CAAAAAgAAADAb6eAXcfmcFmI8dpH12lKQAG5w7mwpru17MXBL7JfbAJYPNIgzu7K/TXDT6rQ37TwfOaBqO6m5kqCNsB7m4GYrvBrcOL8XAGSPBAa7iStXU3ctvzorxcq0GSkA9uUJ4cJ3ini683RyjkpOcrZrdgvxX9iYS02Fi/CGH/V/IDjhIxqJ/nmA8VHI0OA4UPEMPiGsqbzHckwseV5Tno9YCVb6I0Ju8gsTqADm+LQjMJ31uMIAU7jGvgRRzAKPBJbi0BvZ2kXgAK170nf2jpkJU7Nsc7nfrTzwWFFcjs4Pe1V9SQ=
+     -
+       name : LISTE_TERMINE
+       identifier : 0x2374a0c002643637
+       internal_properties : CAAAAAgAAAA/8gxOibid9D4AMKxdMajtbcnXqtSZyVuuD/9WuwG4OjQlhYsXbiU1T1v5RT1/UkN0OpS7vkFjVKOxe9+CXrArazAPPAz4VrL6KrPA3gr9ftNVtY/vEoK/avZtmmOSy+S2A1QlfV9WcK3ABAR/xq+RpsGMpjuharKDzAJPIMoMiacwzVacWn0OPKyPEXn2vv5V9TLuRYmmGqSYagLL+GnWl695lpDhpJfWbyDyolyxm5UBTRm+zAhIyhh/C0gqfwD5KFofC/E6pmDRt9p5vjonK5YtQd560A6thsxVyP8=
+    type : 140
+    controls : []
+    code_elements :
+     type_code : 166
+     p_codes :
+      -
+        code : |1-
+         
+         global
+         Modifié est un booléen = faux
+        type : 14
+      -
+        code : |1+
+         PROCÉDURE DébutDéplacement(carteOrigine est un kbCarte)
+        type : 318
+      -
+        code : |1+
+         PROCÉDURE DéplacementCarte(carteOrigine est un kbCarte, listeDestination est un champ, indiceDestination est entier)
+        type : 319
+      -
+        code : |1-
+         PROCÉDURE FinDeplacement(carteDestination est un kbCarte, listeOrigine est un champ, indiceOrigine est entier)
+         Modifié = vrai
+        type : 320
+      -
+        internal_properties : CAAAAAgAAACdV0jCK5WvgmU247wIs7bPzQdWoB57D98dPMcK7HEp8bd66HztFsVttnVT6iiW+yRtWHi4xj4z57NiaVoLpWGBiLxlkAxdBUeV3wvB6a+bZ4as9TSVkC9Ohe2m0dI2hq3MVKhWERUD6e7AYTo=
+        code : |1-
+         // Appelé juste avant que la carte soit supprimée du champ
+         PROCÉDURE SuppressionCarte(carte est un kbCarte)
+         //  Permet d'enregistrer la suppression (la suppression est automatique lorsque le binding est utilisé)
+         //  Permet éventuellement d'empêcher cette suppression (via RENVOYER Faux) 
+         Modifié = Vrai
+        type : 321
+      -
+        internal_properties : CAAAAAgAAACth7jy82XvssVGk2zI82bPDUemsJ6bHx8tnGcK/OHJIefKCLx9ZkUd9oVjeoi2awRtmGjoBh4rzysagTLDjWmJwERdiOTF3a+NF8PZIXdDT140raztOGd2/YXeiape7tUkfEDu6T1bGd7wEUo=
+        code : |1-
+         // Appelé juste avant que la carte soit ajoutée au champ
+         PROCÉDURE AjoutCarte(carte est un kbCarte, listeDestination est un Champ)
+         //  Permet d'enregistrer l'ajout (l'ajout est automatique lorsque le binding est utilisé)
+         //  Permet éventuellement d'empêcher cette ajout dans le champ (via RENVOYER Faux) 
+         Modifié = Vrai
+        type : 322
+      -
+        code : |1-
+         PROCÉDURE DétailCarte( Carte est une kbCarte )
+         
+         si FEN_KBCARTE.Ouvre( Carte ) ALORS
+         	modifie = vrai
+         FIN
+        type : 323
+  -
+    name : BTN_NOUVEAU_KANBAN
+    identifier : 0x2374a14a0779509b
+    internal_properties : CAAAAAgAAABYSXm5jFuNdSnNOOYfJbZpwm2T0xle+ZjEH4YriciF2obImrGNN/SQoF817yQCl2YKFlL+N5tkIrr40XwWUaHrGuL+/SdULBOO4lKUvpUrmsBggjs+AliJBObG3J0lAmXo5Nkh+ny0518gXT/VxfMoAvsw3N01TUwFyDgdlG6oGy9yWgXc8mzeAnfx1F8w3jrRMvbTzFBGJMCfIb5ySKwOPdoQNy4WMAAxKfpc7dw77FEw0HxqGZ8x0twr3BgUnFQQxsmi9Xck+ITHsXLx7YmyzikmM2n4tMqYKmab42CnemnDfVoeeewdnIpBnJ0fv0jKZy+cJCC9Am1an7lYv90EviKaRfDNjr+dH6LN+0U0q8a860Ipv3K15mUKPSdAdhlMD628lUDwYrFTl7AGPns/1NKBcsvThIEmRnc5AvQHaG5d5v3eUtSz16fv89B4AB/x5Ftc/mSukquyGa4sRzhsDoxZ6QRdoXVfy4PyOnTfRKw3EfhmW+gyYAdwmmuVk9Cw5rWwVfG9FAjfgJ38dWoSkyLY6xp2mDTvgcq+Ztqrk+09+LYdTxpcpEMXvRojfPYlOU4HEgJnsBEgmdjfyc9IuACldvDGLx/ucV+XZ/7XiGgabF6pj6dx9EQxbPyZxYuV81hSRl62lJ4XoxcT8H7+ia9c692aAbLxXo3Nb3khBmeFTkuJ+gqy4lCiXiyYZ+fR43AmLBjDi/WzsdLWFxDt8B3VcvVo7z0OxkJ6EE/P1cr+R3KcVJc8+BLyVmS8USfvDQZwr2wfZfnW5/xJXlS+egeWZxTaZcM8I6UDtI2RL6VVvpnwT7LkhkqcUpoqU2ArOi456UksxMm2/gntp/4aDZNnInlAscMLMOqJ7JXab9n8EA7qZ+M1TVXR/CKH+BxecDkBAsPA7oI2oqgVb0COtmVztVjQQqIjE0f2IervzlFeEE2up13pFLX5eHSdoQ5jfaLrZlRlN7Gg/P3ZPLp6rZNGmUklJ2nc+RluVB9meJxKvzw4uRZOJ3+OWOFrFGEjMgMhkXoz/6ac8chQglLv9fg1Ag==
+    properties :
+     x : 12
+     y : 6
+     width : 57
+     height : 68
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Si on n'a pas enregistré le kanban en cours
+         si FichierKanban = "" ALORS
+         	
+         	// Si le kanban en cours a été modifié
+         	si KANBAN_TACHES.Modifié = vrai ALORS
+         		
+         		// Demande confirmation pour l'enregistrement
+         		selon confirmer( Annuler, "Les modifications n'ont pas été enregistrées. Souhaitez-vous enregistrer le kanban maintenant ?" )
+         			
+         			// Enregistre
+         			CAS oui
+         				
+         				// Si l'enregistrement échoue, on annule
+         				si BTN_ENREGISTRER.ExécuteTraitement( trtclic ) = faux ALORS
+         					DonneFocusEtRetourUtilisateur()
+         				FIN
+         
+         			// Annule
+         			cas annuler
+         				DonneFocusEtRetourUtilisateur()
+         
+         			// Poursuit
+         			cas non
+         		FIN
+         	FIN
+         FIN
+         
+         // Supprime toutes les cartes
+         KANBAN_TACHES.SupprimeToutCarte()
+         
+         // RAZ
+         KANBAN_TACHES.Modifié = faux
+         FichierKanban = ""
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_ENREGISTRER
+    identifier : 0x2374a18d078e53c3
+    internal_properties : CAAAAAgAAAALbVpO8v9Gko6+2OS10wbriOldcf+61433BLpmQpCnykrPrTdKoYxsErsPn3Sff3HWQni31gJeDg+DwiUcN8V2WoqgH/4Pi3n1fNI9JP0be7z5Sy5twqclyH67LZLnJh2dC7Cp5oWAUFl8ETnV05goxLjJD0zmSkBR/+iaAtTN+ptu1A9a/8i1EDY8Gq8vlJRcw5/4TtRFAixxQxS+uheapanCv4i72mTZpkwscPYeonHisbUbiZpVUaEooq4YZND4/3Zf0SE1nsKoAxPn29jRjhgCfGRLIOgIz7jIMvLE4hJvke2dRJ6Cr3kY25vHXZerFIwqQyOs6O2xnN5G5eRkvZEe4iEiRObrU75rZI53FRdDZebltqsWbL6ymeV6q66f4CQlF5m5glqXF/Q3IGpWtvmokxVl+PIfMcEnV5qc4++bWMiSJ6gcpmqIfVF45gbWpnuHYSEqjP7yUkilX9oGxzEcx2ez2FQ5RClPO5z8u+NbwUuisPlP4l38NyxQAsFRYSARztWjusZi6ZnVbyn7sj4ff5jJHOVC557xbvOMdzBJfhnxEHfti8qjl8D1cgl7aefyI3d0gidDEV9G3RgL6GKXLvbm4T5vQ8D1UzcJ0jiC50uG94rhCumBaU+gK8PLrjr10cN6cfWpLGslSxR5AD/BuAxHHtWcTn4Ec8a3HWZRqgvC08JL4CrOd4svVWS6W0xEFGWDMlr+ERmNsYS9wQIqZCOuwcj9Xyi343dwlmYUdYWCuOOOO0eG9SG757Tsnr3HyQRWNBBwObQ0/vtZINwmuZUGbjSMgEtq3X5II5WIcf1UhV/+Rm+OEs+ANW6G8STZKfCUKzMjSvj+gcDuyMm8eOp0nU6Ndgx9fAl+zdT5Cz56srgt92m0mBxmQHNQWSKZMfXUxEOge3cfx1966yuI7ONUhIhcKQX2DhIYHMU7QGAHWJZESgl70DZ4AW4IU8SNzSAloqzvXdoo7ibdcbdG8ffW0rYoDiAgd7L7a3uDoAUM4EHZqDySdJA=
+    properties :
+     x : 141
+     y : 6
+     width : 60
+     height : 68
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABtR3iyB2mPguU2YzyIMzbPTYfWoB57j18dvMcK7HEpcbd66PxtlsVtNnXTaqgWeyTt2Pi4xj7zJ3OiKZpL5aFBSPyl0MydxYdVH8sBKe/bJ0bsNXRV0O+ORS1mERJ2xm2MlOiW0XXHWR6wUQo=
+        code : |1-
+         
+         // Si le kanban est vide
+         si lISTE_ENATTENTE.Carte.Vide _et_ LISTE_ENCOURS.Carte.Vide _et_ LISTE_TERMINE.Carte.Vide ALORS
+         	
+         	// Si on est sur un nouveau kanban
+         	si FichierKanban = "" alors
+         		
+         		// Pas de sauvegarde	
+         		RENVOYER Vrai
+         	fin	
+         FIN
+         
+         // Si on n'a pas de fichier
+         si FichierKanban = "" ALORS
+         	
+         	sFichier est une chaine
+         	
+         	// Ouvre le sélecteur de fichiers
+         	sFichier = fSélecteur( "", "", "Enregistrer sous...", "Tous les fichiers (*.*)" + TAB + "*.*" + RC + "Kanban (*.wdkanban)" + TAB + "*.WDKANBAN", "WDKANBAN", fselCrée + fselExiste )
+         	si sFichier = "" alors		
+         		RENVOYER faux
+         	fin		
+         
+         	// Mémorise le nom du fichier	
+         	FichierKanban = sFichier
+         FIN
+         
+         stDescriptionKanban est une DescriptionKanban
+         
+         stDescriptionKanban.ListeEnAttente 	<= LISTE_ENATTENTE.Carte
+         stDescriptionKanban.ListeEnCours 	<= LISTE_ENCOURS.Carte
+         stDescriptionKanban.ListeTerminée	<= LISTE_TERMINE.Carte
+         
+         // Sérialise et sauve sur le disque
+         bufKanban est un buffer
+         serialise( stDescriptionKanban, bufKanban, psdXML )
+         fSauveBuffer( FichierKanban, bufKanban )
+         
+         renvoyer vrai
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_BLUE
+    identifier : 0x2374a36907cf9a4f
+    internal_properties : CAAAAAgAAADBKBRu2GgqXae3jPfvxMC5JFgnRoTLcGeImHubizD2KBdmbBcBZF9zFO25NLSx38oymq3jTLKWiRYnbSuorm22dP+RygvBRFAUwJ4agfN0dMCAH8NO6JtGQdVd0GVhRvJsfRMXbmUEWzpiYVbGNUCzxtdMil2O6TPDeo+lZPd4ytK4GP5PQ60vcnt6ceWGSlaFJD2x2j0NinzR68a4iP+/do0nHyJCUAoM9USFmbhCrbfYdleLQD8Ozhmg+psqBVbGrQ6RTx7MbGmC8zKkdoIyST55AEyfdqqtDIwGVPpze+GZ+VUD/pJwJFFCl6yBvxIKAGIyP4lFGK93T7cnlqIkgJCG6o8nea/Fq0D3dtjdMNjCiI3sU4XIndWniOblAFBRzhp07uDObRfzTWfBqzP6JTxmo9pm6SRe/Z5qynYv4JJa3hi9osT1lOdLFmmH7Zyp19A5vBcDSgy4aXMmENJDcDIlhCm88oj6+TNQ8OWb0gBSdRVrLrD5kpACGJdvya6cKU0Cz3ykNOWUEIyU1eevGIjzOb9BxrCehu7cn+UWCMJB4205zQYpxWL/FIWA7MhfpTBNHirHrdc8PthBhErEaeCDrrgr3LaTek5YCRHyiSJmKUvcB3Y+yBf37rPCuhAnlWZndQxIVrD+BFxxZDcHyYDSxy3UGz6iDqnhSkv0TPrsR72qs7Fznpjd5CQhAD86+GdilHznJKX8+OBA2+KO+Np10gPT6RdYbL+VaeM5JpxSvmHWoxmBffvr+1+C74JuGSy/KF/9/XBqPuPCAplgF/HetjuZh7HZdmBgEU5ArFKDFnpobP0ZFcyq7ENbBr7bmlWJ7k9sDZ8g0XeCkg32ov1476/BCo7yZJEeBA1az651MS0w2CEyQ5TosQKPKcz38DTtIqB4nvheiN1Qcw==
+    properties :
+     x : 58
+     y : -57
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_GREEN
+    identifier : 0x2374a36907d49a5f
+    internal_properties : CAAAAAgAAAD71Xw2ALqQ4mUNv6H6QhlznXd/xHkU3GxjC7bnvFdphDX4uBhk6azjItBWBiqHTWxovkIb3/CvTt+WLU26AuosS6wtDb6WRvbvvKaYkxWiWl8WVWWVESf20+iQtqZ4usq90WN+/z2irKzxLoYbBJOLVHBCsT7iPfLYlY6k8HnF6YNxYBEC65XpJNq3uEYJtZ7nifWa6Y7C87uc2vllDv50gRhVQDyTEr1QMk1LRDiYsGmMCFCy0vqztW/IuCkst+kFqY1H6/YCykUOOknwjGRf5PVyw0gSxcHa4475mCwJnXVUicw4LJVSrAmwKFg0a2bnbDJKKabkqN8DCgC+GgrPdhBZ/rnHNvYy56P+y17p+s32b845RYo82Skue920fH/DAUf6zIZJc+yoKXgwVROqyjpizNFNXJ0QJUQNhdG3qP5mCJVwTT5Oj/yvWWWfsA5RcoKbBHKWyt5i5DD0/whmp9B/W68fkLDrlAOYz98JW0z/Kna5h/eMKXf1wB9D5p8dE5EFzvP1X2OMRi6wGqEP2qiL0jHmPBu/ea2ksPiTu6CwXsCnHFmRzuqyFxRk+b34q8gLM3EFnKY16Vs8Fsa7ihyj/oHapeiCxfT3DgtZLSvwqh83JDIYmHUXnGekkvAlKvYtP8pVIZ54UwfbXc9EqTlsQ3oDyxGGNjrsj1XeQwb6LzNSJwaRUHpjnf8b2QIPmuWQjDpjNeIuV04jn45QjmPGXz1e+pZxDPAMX/nIOqVR2a3tVsZZ5lIsO0pyR3O0STWt3aixLgPOBrXn9bAIzJjxJxh96s9iv4R+s+8JblUDwpDYAegXUgOAWSg93s5CiYYKFg9bwWSc/eiMdDzkPsbjjY11T0RMU+UpuXb1K2pK6GVUiXboLpSr1S0Q5j3sL8WY4EbAQ/7spS9n7gQ=
+    properties :
+     x : 32
+     y : -57
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_RED
+    identifier : 0x2374a36a07d99a5f
+    internal_properties : CAAAAAgAAAAO8gP1SW8mTNFwn6TMPTyCr0og44+nRCZV8gCG2kJ+M0mV6JtAmurF5G0WQx65AGWfyz2Czf/7RonZ5Vg06Ek3nSmoTlB1yvbRaerX7eFbyyttDlrx2oeaqc14bZRkQ/N1LKzWPz5ezgDIdNGLBFSceifFDBp7g5faLtjrUz801C0CNZx2wFebio1Xi3gDbP/I5jhdOw22GUUPNDyh3M3d7bcSE8lyBIVKQWF+zO4BWYOzU3n8FeZtaRrGsRJ4LnBV0EVEnznYDDPTlrcvYCe0jpQzgiiUL2mcfGL0qPBUEF81yDGur3mujIIkLabYSxazEXNdK0A0AuwD3rijXHzrmAl5mVaVExzakoezYnRT3FCw1uWDWK9YkvfDidaCTCR1KKdc+fCKrTjBXF3j/55nR70XR/BtpvmONdjQ4zL/i2Gj7gJJ4wV7qj7I8eMQgAhsrDJMKDy71LmU2YfNkrVCsw7GmdZUkqC3q1HOEwUmBQMSghpFrypqGUWTsz+P6LfIQyYsmiof5SAzzjKu5zTtZwubGdluG7QO1uByjAKvVWbuHVQBa4AhMONNC3KhpLMwjqapR6Kw9F03BN6UgGxsXUUBjlHzJC4yLk/XcLmtLsewZ04CB0Y0ot5JlhlNKNXAYifNs63/yWbKHpkl8lBMfSyntZssLPLbzKTziR3I4CGRcSXlTLZB+ETA9eLu2gWLhf5uKuARm95GgUsibvpniG24SlnWVGqPxNP2zP5bZteG27H/yoOnFos6R7b5PCeK5oJKq2DGlS4flvDIUpuvRNQwlgvDWy3UZCSRs9GM99D+zFKbqzJEWEt2cNs7OD/UWe4MDNaLcj+E+U+xhSaViTpOBT5j6ddHtCtwI2CAiDl77j1JwyOo3HbYA0tKjtXLDB6Y3tstCORc
+    properties :
+     x : 6
+     y : -57
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_OUVRIR
+    identifier : 0x2374b4f3a0461d11
+    internal_properties : CAAAAAgAAACpppA27XEytjl7PwbzrMWjqYgzhNjxdoHo0faNWKK9cbgs+6w1zbdUSG4l8oOkMaUI5wA3rU1wMtf+Y9AMzHnekIbZv/M3mW+uXkagWTrFi8LN6CDEDwmJaeHg5if/WPMxd1q39elBUpj6Un1PL04Z3Rvc28NNfCAibH/qOoONTyrlwK37WP7sRzEDFSueIC6HyrZ5Rldq2TIfY48cXE6idHXTmDG05kf8epXO/+vxaHikoHHlDH2BOE1yQM97poZpPuNAnvfOIfQyDNPfIYFwWriEYmQbeuNm6FJTIOQVjV9LAADC4Nh/4EUqVVSFHHtthUQNNDFSPZrDtZW7ngpuwVccS2Xo4SfuPe3ud53SiwuhqPUK8eFb0zfiALYhcL+TgNOleyvluyUYPjJISw4L5SL+jbyWGleSSVwVPyPtOq5dTc02S/HawelB3OI0gxlg0l47VfMQ+HsZxT5G8EMt4FevKF9OO/NYf+XhxEZhkFtaiNYFQa+6DE2X3UlP3t3lL8jKJK48tDI12r/kCBaTJ71tY7q5+GnUGEZSt9qXMMd4a4Jx1/kNF0qFXEipgl5JthBJv3EvSFWzalErViV1YSir5d6dbJ2l8jhq4nG63yOYWRXcDGhJn8pGVUlA2TKh3Z7Lafo3Z5jVsh+GQ6BBpqSB8/3dnZsSEcffHxBJj7n+ydHwFVui/pZYyJIsHIVhwfuvafiqXdSlVa5S4Zl91cFkIsFWhSjBf7P+i043G4yMAOGE/TXbq3RF3DWV7dJbFiSV/cJD/tWQwJMnDebPutF6xJjhp8VB7inpaHP5Juqg9wZJ7iI54e/6/8htE/YyuBVXuzr2yfEmt+Doazs7+zGmbwcHHv0GUFzEcHGWyRqC/HTg0KTQ6IqH/AdXVTxITq2nRQ3u04dfHhU5nsPAD27IW2i0/Zzd8EhhDgHdUwfGxTf9U2jhDsSRJujdCzVN8pXbugqvvv74tcz50q0di621k/VfntdHBdak1TZk2gvkRCIG
+    properties :
+     x : 75
+     y : 6
+     width : 60
+     height : 68
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADlz+AqkziugtVWk3ywm+7/tec2AH5r79f11C9SXEHpKfdCMAT17n0ddrUzOsBuEwTl6Ni45h5fs/c+vR6XKeW9NIihzKgBkfNZW49FdbOPI6L44eChRFtKCZn6td4KumkIcETS/QBb0YYo2YI=
+        code : |1+
+         
+         sFichier est une chaine
+         
+         // Ouvre le sélecteur de fichiers
+         sFichier = fSélecteur( "", "", "Enregistrer sous...", "Tous les fichiers (*.*)" + TAB + "*.*" + RC + "Kanban (*.wdkanban)" + TAB + "*.WDKANBAN", "WDKANBAN", fselOuvre + fselExiste )
+         si sFichier = "" alors
+         	DonneFocusEtRetourUtilisateur()
+         fin		
+         
+         // Démarre sur un kanban vierge
+         BTN_NOUVEAU_KANBAN.ExécuteTraitement( trtclic )
+         
+         // Mémorise
+         FichierKanban = sFichier
+         
+         stDescriptionKanban est une DescriptionKanban
+         
+         // Charge et désérialise
+         bufKanban est un buffer = fChargeBuffer( FichierKanban )
+         deserialise( stDescriptionKanban, bufKanban, psdXML )
+         
+         // Ajoute les cartes dans le kanban
+         stDescriptionKanban.ListeEnAttente.Applique	( Carte => LISTE_ENATTENTE.AjouteCarte	( Carte ) )
+         stDescriptionKanban.ListeEnCours.Applique	( Carte => LISTE_ENCOURS.AjouteCarte	( Carte ) )
+         stDescriptionKanban.ListeTerminée.Applique	( Carte => LISTE_TERMINE.AjouteCarte	( Carte ) )
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAABolUUTe/ChVGjvhClq1yuaCw5C9uOg/mgP4csm5PPaumQ+mzbPvzHPT0N1AA/zoUcEB/Q2aEPudoGlHf/1w8aNW1l2ke7K7YvjL+KXl6ui7n1LFpWs+vjf9qTjtm7du5s7KSAtr1vgdYe7nWSVoaX/0l2GvX796g11PoTG/4ookeCAuYEOEftCoD/kYqOjmrgiMqwhk/6INbMLdhsRErSC4R/nZR5SMzseiCJDwTb5da+jbyhuiVR9GSMtN9F4SgZ+M3Ci6N1x48qEAhvcPkP5n81bGWXdtSdHP3Mi59A=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE MaFenêtre()
+      
+      DescriptionKanban est une structure
+      	ListeEnAttente est un tableau de kbCartes
+      	ListeEnCours   est un tableau de kbCartes
+      	ListeTerminée  est un tableau de kbCartes
+      fin
+      
+      FichierKanban est une chaine
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+      // Si le kanban en cours a été modifié
+      SI KANBAN_TACHES.Modifié = Vrai ALORS
+      	
+      	// Demande confirmation pour l'enregistrement
+      	SELON Confirmer( Annuler, "Les modifications n'ont pas été enregistrées. Souhaitez-vous enregistrer le kanban maintenant ?" )
+      	
+      		// Enregistre
+      		CAS Oui
+      			
+      			// Si l'enregistrement échoue, on annule
+      			renvoyer BTN_ENREGISTRER.ExécuteTraitement( trtClic )
+      			
+      		// Annule
+      		CAS Annuler
+      			renvoyer faux
+      			
+      		// Poursuit
+      		CAS Non
+      			
+      	FIN
+      FIN
+      
+      RENVOYER vrai
+     type : 40
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1374a02a0004e9d6
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
