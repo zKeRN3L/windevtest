@@ -285,6 +285,19 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : LIB_Branche_566
+    identifier : 0x25325b660ae8f293
+    internal_properties : CAAAAAgAAABzGuPBXBTRQaDfmZ0wuKcr0cvRg4/+9oRVI33uzHnMXzm+ZxZ2gnvz3/VQR0DEUszfVSSjsoN+QgEOHsqIdSUEkjVKkhLcew2ZSWGe6T3J4XV8AnDkSDkAxeiboWUacR2IcbYRKvr4rubxIFea9sGK33uE1sAb1YE8yy4zdx2dJPb+QldiXn5DL1de2/esyYct9SFvWGFoKPZR3wejvXyH5FvvioBfC3DO1895e1dtWrTKQXvPZmBAAmhQ3miG9AYc4N6iJ6hGn+OVIVvbwHunfBRdPxuWQ1hYZDUHqDgT+0qNHwNeFLXppc/h2a0GTm2ojqAbmY1dvLjP54vmK1wpRlQe7AL35Ay60w/Jlv8W1xnDSLJEXK9IpO8SFjj2X8DNgb9ApIPfX63S5VE8XAoC5TREosuq9bQZjSsFXcF/Me3dQxVbvv0CWAW3qYoGG0UOqzIiveVaJBk+muYVzD/4nlta8wsHglaBSA5j3sU=
+    properties :
+     x : 470
+     y : 20
+     width : 100
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
