@@ -285,6 +285,19 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : LIB_Ticket_602
+    identifier : 0x253261310192933d
+    internal_properties : CAAAAAgAAABImn11zNjbkdnP68a4NFtOA11dRvmi0zMql8nptiGAktRvk5ZLSRolNpWMZErXsKL/gSaJcMZSp/v2QCjmAcwiW1IhSyYwspBMsAWSnfXOZDIfeNaTDgllLzyeeur2w1AouC0FszB/i8h0Cd8cYLjl8zLztUo85v8Vrk8wNqXer/RdEHoJM+g7jS8uZvoF9obgjP2L0t+BrMMX6GTEAGZbc+EMiYOhiFONEHxgb07Fp40O7ZO196ZVUmWtivoCve+u79s+Qphx/SVETTHHN63ms9Fjcr11TaSoNNk5yR9/joaxiCrdkJylmPXLK0vMXqjm5TrSKwqjuBHebALBMrQq1Dv0s5kdxCONCwbwsGXC8CvrpAYOGxGRXBvwdXKFAbj7zCldfdmZ75OJWdV6y1jlffCqXud8SODLncJs4NuLRp8dqW48XjWEwSf+hG/0sOeLfnmwtub5tVbtYKtO0YQQHH3UiyaywypVts83Uw==
+    properties :
+     x : 379
+     y : 26
+     width : 100
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
