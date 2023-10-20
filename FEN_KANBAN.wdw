@@ -285,6 +285,26 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : BTN_ENREGISTRER1
+    identifier : 0x2532696f0135aa6f
+    internal_properties : CAAAAAgAAADPjHFiVUy/arEuv2GUnCBaeb9iBI3b4zZi9N4g1X2iYd+wl+B04padDfRRnti2q0ewFDkJyB2YdL2feXZJqO9XubPaz+gK/tA1BtOMhBBPDIIcTU8FjrHWK/YoD0RfG+unJ4tHW31oEIn3Rmrl/C5tcR474Xiwl7VVBgd0HTNLEOOdiDsPLNZ+3tqe+okA4yEFrp+dWUx1j1v7XFMXUtVJje+aUEvhkN9UUyNv9U1cPMA8ZK3QjKTzCQFK5ontL+XqDP8ptv6FwMWZXIBTpPs7qQLXREEbyBDxjIaR9ZeNQhJ1a8XkZJUrh0GCsvh3beI+GBaSh1fyXnBXEAsVWURg6ezBS5jTUmVz4Yh35OzHmol54q78WpBR7sP3onL/7rsAIf5V4HgMBK8WNurVfDXfVC8WvB0yE6/R4Hx7mRrIAK62DlZOi0TCKIxRHmKRUN00xWsLo+JcKP6c4JBqC+oHmLafBA2H2GHOkEWMHav05+0XPUp1FcaW/h4bpybt3CzFlO7A7cMehLHTWxBmTeRW82K/o8pnQBT6MIHXwb0gOK5RZ/J2zRUMXIBa6lS00pVaJbO7yFOA80v6ovzRIphO/fgfsW12/O7JmzKc2jfsQhCc02eaID4Ihk5IIZcR5YVoLpNDpRjaqeQF4VkE0LqaHS54TvRYOawqGTiuMMNFmsVtJEvHxnNVxdQ3Tm4IKQ/EITTDA+2c7bvpRloNSga7lMjWcDdDPmHJFp0XuAskP2eIiytkb2m9yPbN3TZPdAyMHiyjb2+QHcB0TKcp5SZJpx7gHMDeIcfORqA4iaLgZQ6lcCn45PzWQtqnqSLSYKzJADmVyXaHz0dfJ3FlUVbvOzJkH0sJ9MZtBiCnZyTWDls0f2Jt1DLv0h6FA5kAyLvC3YZT7KFfMHZcXrOfXwVNaV2LOrBIX55lyl+Jf8do5udxrk5shCdDX0nxdH4B2Ya6eJEPAiqanXD10fEkfxcNssQqSAhqFIVn3peWKhMvlkSu24vyjM6klKAYV/rhULn8Hmi4Elw5aM83zv9Ecw==
+    properties :
+     x : 330
+     y : 6
+     width : 181
+     height : 68
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         info("ah ah y a rien")
+        type : 18
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
